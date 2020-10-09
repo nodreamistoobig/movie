@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="nextButton">Что посмотреть</string>
+    <string name="newButton">Сбросить</string>
+    <string name="name">Название</string>
+    <string name="year">Год</string>
+    <string name="director">Режисер(ы)</string>
+    <string name="country">Страна(ы)</string>
+    <string name="genre">Жанр(ы)</string>
+    <string name="message">Сообщение</string>
+</resources>
